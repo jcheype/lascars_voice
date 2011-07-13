@@ -1,0 +1,20 @@
+                        _           _    ________________
+                       / \         / \  /                \
+                       \  \       /  / |  www.karotz.com  |
+                        \  \     /  /   \____  __________/
+                _  __    \  \___/  /    _    /_/        
+               | |/ /    /         \   | |       
+               | ' /  __|_  O __O __|  | |_  ____
+               |  <  / _` || '__|/ _ \ | __||_  /
+               | . \| (_| || |  | (_) || |_  / / 
+               |_|\_\\__,_||_|   \___/  \__|/___|
+
+Challenge your knowledge with this french Karotz Kuizz
+
+In order to package your app juste run:
+    zip lascars_voice *
+
+and upload the "lascars_voice.zip" to the karotzLab
+
+
+You can include tts2.js in your project.
